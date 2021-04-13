@@ -1,6 +1,6 @@
 # leetcode
 Leetcode Problems and my attempts to solve them
 
-* [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array/)
-* [Remove Element](array/remove-element/)
-* [Search Insert Position](array/search-insert-position/)
+1. [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array/)
+2. [Remove Element](array/remove-element/)
+3. [Search Insert Position](array/search-insert-position/)
